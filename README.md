@@ -8,6 +8,6 @@ A Pinboard to Time Streams converter.
 
 ## Converting
 
-    Go to https://pinboard.in/export/ and download your json file.
+Go to https://pinboard.in/export/ and download your json file.
 
-    From this directory, run `node index.js your-bookmarks.json <optional-timestream-name>`
+From this directory, run `node index.js your-bookmarks.json <optional-timestream-name>`
